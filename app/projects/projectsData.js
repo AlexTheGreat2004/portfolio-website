@@ -35,7 +35,7 @@ export const projects = [
                         Egyptian Ratscrew is a fast-paced online multiplayer card game developed using Java and libGDX that replicates the chaotic, reflex-based rules of the real-world game, including simultaneous slaps and face card battles. Players join networked lobbies and compete to be the last with cards remaining, slapping in real time when valid patterns appear.
                     </p>
                     <p className={`${play.className} mb-4`}>
-                        As the main gameplay programmer, I implemented most of the core logic and all client-side features on top of a teammate’s networking infrastructure. I handled the full turn and slap state machine, designed an event-driven UI using libGDX's scene2d system, and enforced all game rules with strict input validation and rollback-safe transitions. This was my first-ever game project, and learning both Java and libGDX from scratch gave me a crash course in real-time multiplayer systems, rendering frameworks, and clean game architecture. The experience also helped kickstart my broader interest in game development.
+                        As the main gameplay programmer, I implemented most of the core logic and all client-side features on top of a teammate&apos;s networking infrastructure. I handled the full turn and slap state machine, designed an event-driven UI using libGDX&apos;s scene2d system, and enforced all game rules with strict input validation and rollback-safe transitions. This was my first-ever game project, and learning both Java and libGDX from scratch gave me a crash course in real-time multiplayer systems, rendering frameworks, and clean game architecture. The experience also helped kickstart my broader interest in game development.
                     </p>
         
                     {/* Key Features Section */}
@@ -92,7 +92,7 @@ export const projects = [
                 <p className={`${play.className} mb-4`}>
                     Draw the Way is a 2D puzzle-platformer developed in Unity over four sprints by a two-person team. 
                     Players can draw directly on the screen to create physical objects like platforms, laser-reflecting mirrors, and portals to reach the goal. 
-                    Set in a sketchbook world, the game doesn’t take itself too seriously — and that’s part of the charm. 
+                    Set in a sketchbook world, the game doesn&apos;t take itself too seriously — and that&apos;s part of the charm. 
                     The aesthetic is playful and players are free to draw whatever they like, often leading to funny situations. 
                     The game features three main levels, each with a finish line goal, and all drawings persist unless the level is restarted. 
                     (Though, they may be displayed after beating the game.) 
@@ -217,7 +217,7 @@ export const projects = [
                     Quaternion transforms ensured proper orientation and velocity transfer through portals, maintaining a seamless experience.
                     </p>
                     <p className={`${play.className} mb-4`}>
-                    Recursive portal rendering was achieved by transforming the player’s camera through the portal's matrix and rendering the view from that perspective.
+                    Recursive portal rendering was achieved by transforming the player&apos;s camera through the portal&apos;s matrix and rendering the view from that perspective.
                     Energy pellet mechanics included timed launchers, catchers, and doors that unlocked when a pellet was caught in the corresponding catccher. 
                     Turrets were stateful AI actors capable of detecting, targeting, and damaging the player using laser beams via raycasting.
                     </p>
@@ -372,7 +372,7 @@ export const projects = [
             <div className="text-lg text-gray-700">
                 {/* Main Text Section */}
                 <p className={`${play.className} mb-4`}>
-                    A Catmull-Rom spline defined the track’s geometry, while the ride camera moved along it with correct orientation using tangent, normal, and binormal vectors. 
+                    A Catmull-Rom spline defined the track&apos;s geometry, while the ride camera moved along it with correct orientation using tangent, normal, and binormal vectors. 
                     The rail geometry was rendered using triangle strips and a ground plane was rendered undeneath the rollercoaster.
                 </p>
         

@@ -40,7 +40,7 @@ export default function Resume() {
               graphics programming, and software engineering.
             </p>
             <p className={`${play.className} text-lg mt-4`}>
-              Feel free to download it or reach out to me if you'd like to learn
+              Feel free to download it or reach out to me if you&apos;d like to learn
               more about my work or discuss potential opportunities.
             </p>
           </div>

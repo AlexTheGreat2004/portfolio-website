@@ -40,7 +40,7 @@ export default function Contact() {
         Contact Me
       </h1>
       <p className={`${play.className} text-lg text-center mb-12`}>
-        Have a question or want to work together? Fill out the form below, and I'll get back to you as soon as possible!
+        Have a question or want to work together? Fill out the form below, and I&apos;ll get back to you as soon as possible!
       </p>
 
       <form

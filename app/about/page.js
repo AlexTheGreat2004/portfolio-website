@@ -27,11 +27,11 @@ export default function About() {
           </div>
 
           <p className={`${play.className} text-lg`}>
-            Hi, I'm Alex! I'm a Computer Science Games major at the University of Southern California (Fight On, Trojans! ✌️). 
-            It took me multiple existential crises to land on my major, but I'm very happy with that decision.
+            Hi, I&apos;m Alex! I&apos;m a Computer Science Games major at the University of Southern California (Fight On, Trojans! ✌️). 
+            It took me multiple existential crises to land on my major, but I&apos;m very happy with that decision.
           </p>
           <p className={`${play.className} text-lg mt-4`}>
-            I'm primarily interested in writing code to create or facilitate visual effects and animation, but I also love general gameplay and algorithmic programming.
+            I&apos;m primarily interested in writing code to create or facilitate visual effects and animation, but I also love general gameplay and algorithmic programming.
             I picked graphics as my focus because I love animation and wanted to be involved in the game/animation industry in some capacity.
           </p>
           <p className={`${play.className} text-lg mt-4`}>

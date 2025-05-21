@@ -28,7 +28,7 @@ export default function Home() {
                 And check out my cute little site.
             </p>
             <p className={`${play.className} text-lg mt-4`}>
-                As you've probably guessed by looking at the top of this page, I'm Alex and I'm a game developer and graphics programmer. 
+                As you&apos;ve probably guessed by looking at the top of this page, my name is Alex, and I&apos;m a game developer and graphics programmer. 
                 Though, graphics programming is my main focus — I see it as an extension of my general love for making things pretty — I have general knowledge in game programming and software engineering.
             </p>
           </div>
