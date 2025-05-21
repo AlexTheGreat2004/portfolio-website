@@ -101,7 +101,7 @@ export default function Contact() {
             Send message
           </button>
 
-          <p className='mt-4'> {result} </p>
+          <p className={`${play.className} mt-4`}> {result} </p>
         </div>
       </form>
     </div>
